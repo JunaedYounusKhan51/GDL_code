@@ -4,7 +4,7 @@ from keras.layers.merge import _Merge
 
 from keras.models import Model, Sequential
 from keras import backend as K
-from tensorflow.keras.optimizers import Adam, RMSprop
+from keras.optimizers import Adam, RMSprop
 from tensorflow.keras.utils import plot_model
 from keras.initializers import RandomNormal
 
