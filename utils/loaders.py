@@ -15,7 +15,7 @@ from glob import glob
 
 from keras.applications import vgg19
 from keras import backend as K
-from tensorflow.keras.utils import to_categorical
+from keras.utils import to_categorical
 
 import pdb
 
